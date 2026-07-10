@@ -43,8 +43,8 @@
     </developers>
 
     <properties>
-        <revision>3.1.7</revision>
-        <changelist></changelist>
+        <revision>3.1.8</revision>
+        <changelist>-SNAPSHOT</changelist>
         <hpi.compatibleSinceVersion>3.0.0</hpi.compatibleSinceVersion>
         <!-- https://www.jenkins.io/doc/developer/plugin-development/choosing-jenkins-baseline/ -->
         <jenkins.baseline>2.479</jenkins.baseline>
